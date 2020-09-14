@@ -17,7 +17,6 @@ const kkunal = {
     code: ["Javascript", "Java", "C++", "C#", ".NET", "Node", "Ext.js"],
     askMeAbout: ["Web Dev", "Tech", "DevOps", "Coding"],
     technologies: {
-        mobileApp: ["Sencha Touch"],
         frontEnd: {
             js: ["Ext.js"],
             css: ["materialize", "bootstrap"]
