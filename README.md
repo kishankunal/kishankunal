@@ -1,7 +1,7 @@
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm Kishan Kunal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Development Engineer at <a href="https://www.aptean.com/">Amazon</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Development Engineer at <a href="https://www.aptean.com/">PhonePe</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-kishan_kunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan-kunal/)](https://www.linkedin.com/in/kishan-kunal/)
@@ -14,7 +14,7 @@
 ```javascript
 const kkunal = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java", "C++", "C#", ".NET", "Node", "Ext.js"],
+    code: ["Spring boot", "Javascript", "Java", "C++", "C#", ".NET", "Node", "Ext.js"],
     askMeAbout: ["Web Dev", "Tech", "DevOps", "Coding"],
     technologies: {
         frontEnd: {
